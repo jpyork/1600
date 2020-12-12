@@ -30,11 +30,11 @@ Here is a table to follow when it comes to editing.  You have to add these thing
 | Description | Info that shows below your video |
 | --- | --- |
 | Thumbnial | The image viewers will see before clicking your video. |
-| --- | --- |
+
 | Playlists | Add your video to one of your existing playlists, or create a new playlist. |
-| --- | --- | 
+
 | Audience | To comply with the Children’s Online Privacy Protection Act (COPPA), you’re required to tell us whether your videos are made for kids. |
-| --- | --- |
+
 
 
 
