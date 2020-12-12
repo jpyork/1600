@@ -38,7 +38,7 @@ Here is a table to follow when it comes to editing.  You have to add these thing
 
 ___
 
-![alt text](https://www.google.com/search?q=youtube+logo&rlz=1C5CHFA_enUS926US926&sxsrf=ALeKk02DQao-7HbBqITqJRknpzyBjkriyg:1607746266017&tbm=isch&source=iu&ictx=1&fir=mJe9Z8aqJSzHdM%252CjLf4Mwq9IGBfWM%252C_&vet=1&usg=AI4_-kT5hpRp-8Pkb7LNH8CXiKNQBDXKcA&sa=X&ved=2ahUKEwi6qczIycftAhVICc0KHeK1AHwQ9QF6BAgMEAE&biw=834&bih=882&dpr=2#imgrc=mJe9Z8aqJSzHdM/200/200)
+![alt text](yt_logo_rgb_light.ai)
 
 
 
