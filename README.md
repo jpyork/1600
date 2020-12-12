@@ -3,7 +3,7 @@
 My name is Jonathan York and here are some facts about me. 
 - I am from St. Louis, Missouri 
 - I am currently a junior 
-- Also, I will be doing a short tuturoal today on how to upload a [Youtube](http://www.youtube.com) video from your cell phone
+- Also, I will be doing a short tuturial today on how to upload a [YouTube](http://www.youtube.com) video from your cell phone.  This tutorial is for beginners how want to get into YouTube but might need a little guidance. 
 ___
 
 ## Materials
