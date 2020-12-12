@@ -38,6 +38,16 @@ Here is a table to follow when it comes to editing.  You have to add these thing
 
 ___
 
+## Final
+
+If you follow these steps you will be able to upload your own YouTube video.  This tutorial is for beginners.  With enough practice you will become a big YouTube Star one day. Hope you enjoyed!!! (Now enjoy this picture of this left with rainwater)
+
+___
+___
+___
+
+
+
 ![alt text](http://picsum.photos/400/400)
 
 
