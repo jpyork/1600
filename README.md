@@ -38,7 +38,7 @@ Here is a table to follow when it comes to editing.  You have to add these thing
 
 ___
 
-![alt text](https://www.underconsideration.com/brandnew/archives/new_logo_for_youtube_done_in_house.php/200/200)
+![alt text](http://picsum.photos/400/400)
 
 
 
