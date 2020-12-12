@@ -17,7 +17,16 @@ Creating a Youtube video is every simple.  But before we get started you going t
 ___
 ## Getting Started
 
-Before we are able to upload the YouTube video, you will need to have create a YouTube Channel. Go to [youtube.com](http://youtube.com). Check the icon in the top right corner and to 
+Before we are able to upload the YouTube video, you will need to have create a YouTube Channel. Go to [youtube.com](http://youtube.com). Check the icon in the top right corner and login to your google account.
+
+Now we want to record a video that you want to upload.  Go to your camera app on your phone and record a short video of yourself.  Afrer you get done with that you can go into the app and upload.
+
+## Editing 
+
+Here is a table to follow when it comes to editing.
+
+| Title | The title of your video. This field is required.                |
+| ---   | --- |
 
 
 ___
