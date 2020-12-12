@@ -1,4 +1,4 @@
-# *Jonathan York's Final Project
+# *Jonathan York's Final Project*
 ## About
 My name is Jonathan York and here are some facts about me. 
 - I am from St. Louis, Missouri 
